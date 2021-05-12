@@ -6,6 +6,7 @@ import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 /**
  * @author 郭
+ * 1111
  */
 @WebFilter(filterName = "AxiosServlet",urlPatterns ="/axiosTest" )
 public class AxiosFilter implements Filter {
